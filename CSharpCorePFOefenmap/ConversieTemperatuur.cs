@@ -3,7 +3,6 @@
 namespace CSharpCorePFOefenmap
 {
     class Program
-    {
         const float GemLichTempCelsius = 37.0F;
         static void Main(string[] args)
         {
