@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="02_Selecties\" />
+    <Folder Include="03_Iteraties\" />
+    <Folder Include="04_Arrays\" />
+    <Folder Include="05_Classes,Objects,Constructors\" />
+    <Folder Include="06_Inheritance\" />
+    <Folder Include="07_Abstract and static\" />
+    <Folder Include="08_Inheritance Polymorphism\" />
+    <Folder Include="09_Aggregation\" />
+    <Folder Include="10_Interfaces\" />
+  </ItemGroup>
+
+</Project>
